@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m John Akor
-## I am a Data Analyst 
+## I am a banker learning Data Analysis 
 - 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m currently learning Data Analytics with Dahel Techies
 - 💞️ I’m looking forward to collaborate with Startup companies and Business owners 
